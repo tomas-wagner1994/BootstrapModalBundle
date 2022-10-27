@@ -1,5 +1,5 @@
 {
-    "name": "sideclick/bootstrap-modal-bundle",
+    "name": "tomas-wagner1994/bootstrap-modal-bundle",
     "description": "Bundle for Symfony 3.4+ that makes it easy to load pages into a Bootstrap modal window.",
     "type": "symfony-bundle",
     "require": {
